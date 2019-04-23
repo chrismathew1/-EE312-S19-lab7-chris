@@ -1,6 +1,6 @@
 
 /*  BST312.h
-  CS 312 Fall 2018
+  EE 312 Spring 2019
   Christopher Mathew
   UT EID: ctm2382
   a simple implementation of a binary search tree
